@@ -1,0 +1,14 @@
+{
+  "name": "cypress-todo-mvc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/znamilya/cypress-todo-mvc.git",
+  "author": "Ilia Znamenskii <ilia.znamenskii@werkspot.nl>",
+  "license": "MIT",
+  "scripts": {
+    "test": "yarn run cypress open"
+  },
+  "dependencies": {
+    "cypress": "^4.12.1"
+  }
+}
