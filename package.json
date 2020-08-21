@@ -9,6 +9,7 @@
     "test": "yarn run cypress open"
   },
   "dependencies": {
-    "cypress": "^4.12.1"
+    "cypress": "^4.12.1",
+    "faker": "^4.1.0"
   }
 }
